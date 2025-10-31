@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# builds
+dist/
+build/
+.out/
+.next/
+.vercel/
+
+# env & local
+.env
+.env.*.local
+.DS_Store
+*.local
+*.log
+
+# editor
+.vscode/
+.idea/
+
+# misc
+*.zip
